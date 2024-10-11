@@ -1,7 +1,6 @@
 <h1>Activate directory home lab</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI&t=47s)
-
+ 
 
 <h2>Languages and Utilities Used</h2>
 
